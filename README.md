@@ -1,1 +1,2 @@
-# EDGE-mid-registration-form
+# Registration-Form
+Registration Form
